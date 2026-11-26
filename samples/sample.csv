@@ -1,0 +1,15 @@
+﻿front,back,front_image,back_image,front_audio,front_audio_start,front_audio_end,meaning_my,cloze_answers,accept,hint,explanation,topic,unit,grade,subject,curriculum,lang,front_lang,tags
+,cat,cat.svg,,cat.wav,,,ကြောင်,,,c …,,Animals,Unit 1,1,English,Myanmar BE,en,,kids|picture
+Listen. Which animal is it?,dog,,dog.svg,dog.wav,0,0:01,ခွေး,,,,,Animals,Unit 1,1,English,Myanmar BE,en,,kids|audio
+I usually ______ at 7.00.,wake up,,,,,,နိုးတယ်,,get up,,"go → went → gone",Daily Routine,Unit 3,5,English,Cambridge,en,,verbs
+I ______ up at 6 and ______ breakfast at 6.30.,get / have,,,,,,,get~wake|have~eat,,,,Daily Routine,Unit 3,5,English,Cambridge,en,,cloze
+"Verb table: **go**","| base | past | past participle |
+|---|---|---|
+| go | went | gone |",,,,,,,,,,,Grammar,Unit 4,6,English,Cambridge,en,,table
+$\frac{1}{2} + \frac{1}{4} =$ ______,$\frac{3}{4}$,,,,,,,,3/4,,,Fractions,Chapter 2,6,Mathematics,Myanmar BE,en,,math
+$၂x - ၅ = ၉$ ဖြစ်လျှင် $x$ = ______,$x = ၇$,,,,,,,,7,,,Algebra,Chapter 5,7,Mathematics,Myanmar BE,my,,math
+"What does this show?
+$$\ce{2H2 + O2 -> 2H2O}$$",Hydrogen burns in oxygen to make **water** (H~2~O),,,,,,,,,,,Chemistry,Unit 7,8,Science,IGCSE,en,,chemistry
+ကုန်းဘောင်ခေတ်၏ အဓိကစီးပွားရေးလုပ်ငန်းမှာ __________ ဖြစ်သည်။,လယ်ယာစိုက်ပျိုးရေး,,,,,,,,,,,စီးပွားရေး,သင်ခန်းစာ ၃,9,History,Myanmar BE,my,,history
+la bibliothèque,library,,,,,,စာကြည့်တိုက်,,,,,French,Unit 2,IGCSE,French,Cambridge,en,fr-FR,vocab
+图书馆 (túshūguǎn),library,,,,,,စာကြည့်တိုက်,,,,,Chinese,Unit 2,IGCSE,Chinese,Cambridge,en,zh-CN,vocab

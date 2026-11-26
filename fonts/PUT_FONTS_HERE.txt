@@ -1,0 +1,9 @@
+Download these into this folder (exact names):
+fredoka-latin-wght-normal.woff2            https://cdn.jsdelivr.net/npm/@fontsource-variable/fredoka@5/files/fredoka-latin-wght-normal.woff2
+noto-sans-myanmar-myanmar-400-normal.woff2 https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-myanmar@5.2.7/files/noto-sans-myanmar-myanmar-400-normal.woff2
+noto-sans-myanmar-myanmar-600-normal.woff2 https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-myanmar@5.2.7/files/noto-sans-myanmar-myanmar-600-normal.woff2
+noto-sans-myanmar-myanmar-800-normal.woff2 https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-myanmar@5.2.7/files/noto-sans-myanmar-myanmar-800-normal.woff2
+STIXTwoMath-Regular.woff2                  https://github.com/stipub/stixfonts (woff2 folder)
+noto-sans-myanmar-latin-400-normal.woff2   https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-myanmar@5.2.7/files/noto-sans-myanmar-latin-400-normal.woff2
+noto-sans-myanmar-latin-600-normal.woff2   (same URL, 600)
+noto-sans-myanmar-latin-800-normal.woff2   (same URL, 800)

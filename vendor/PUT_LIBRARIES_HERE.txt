@@ -1,0 +1,6 @@
+vendor/temml/temml.min.js, Temml-Local.css, Temml.woff2   Temml v0.14.0  https://github.com/ronkok/Temml/releases  (dist/)
+vendor/temml/mhchem.min.js                                https://github.com/ronkok/Temml/tree/main/contrib/mhchem
+vendor/xlsx/xlsx.full.min.js                              SheetJS 0.20.3 https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js
+vendor/jszip/jszip.min.js                                 JSZip 3.10.1  https://github.com/Stuk/jszip/releases/tag/v3.10.1 (dist/)
+(optional: without JSZip, modern browsers use the built-in .zip reader)
+vendor/model-viewer/model-viewer.min.js                   @google/model-viewer 4.4.0  https://cdn.jsdelivr.net/npm/@google/model-viewer@4.4.0/dist/model-viewer.min.js
